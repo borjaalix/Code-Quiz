@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+
+.startButton {
+    text-align: center;
+}
+
+.question-section button {
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 45px 30% 0px 30%;
+    justify-content: center;
+
+}
+
+.timer {
+    float: right;
+}
+
+section {
+    text-align:center ;
+}
+
+button {
+    font-size: 18px;
+    padding: 10px 25px;
+}
